@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lux Art Gallery</title>
+    <style>
+        nav ul{
+            background-color: black;
+            display: flex;
+            justify-content: space-around;
+            list-style-type: none;
+            padding: 1rem;
+        }
+        li{
+            float: left;
+        }
+        li a:hover{
+            background-color: blue;
+
+        }
+        li a{
+            display: inline-block;
+            color: aliceblue;
+            text-decoration: none;
+        }
+        .img3{
+            margin-left: 300px;
+        }
+        .test{
+            display: flex;
+            position: absolute;
+            margin-left: 550px;
+            /* margin-bottom: 500px; */
+            margin-top: -500px; 
+            
+0
+        }
+        .a{
+            position: absolute;
+            margin-left: 550px;
+            margin-top: -450px;
+        }
+        .b{
+            position: absolute;
+            margin-left: 550px;
+            margin-top: -350px;
+        }
+        .c{
+            position: absolute;
+
+        }
+        
+        .cocntct-details{
+            font-weight: bold;
+        }
+        .contact {
+            width: 45%;
+            padding: 20px;
+            border-right: 1px solid #ccc;
+        }
+        
+        
+        
+    </style>
+</head>
+<body>
+    <h1 align="center"> Lux Art Gallery </h1>
+   <nav> <ul>
+    <li><a href="#">Artwork</a></li>
+    <li><a href="#">Artists</a></li>
+    <li><a href="#">Collections</a></li>
+    <li><a href="#">contact us</a></li>
+    </ul>
+</nav>
+<img src="p1.jpg" alt="" width="466px" height="345px">
+<img src="p2.jpg" alt="" width="798px" height="450px">
+<img src="p3.jpg" class="img3" alt="" width="687px" height="410px">
+<img src="p4.jpg" alt="" width="470px" height="500px">
+  <div class="test">
+        <h3>MICHAEL BIERUT</h3>
+  </div>
+ <div class="a"> 
+       <p>Is one of the leading American graphic designers, design critic and educator... He also served as a senior critic at the Yale School of Art. He had close association with the American Institute of Graphic Arts (AIGA) and Pentagram, as well. Born in 1957, Michael Bierut grew up in Cleveland Ohio.
+       </p>
+</div>
+   <div class="b">
+     <h5>ONE OF HIS EXAMPLES AT WORK</h5>
+  </div>
+  <div class="c">
+  <h1 align="center"> NEW ARTIST ONLINE </h1>
+  <div>
+    <div class="d">
+    <img src="p5.png" alt="" width="358px" height="358px">
+    <img src="p6.png" alt="" width="358px" height="358px">
+    <img src="p7.png" alt="" width="305px" height="358px">
+    <img src="p8.png" alt="" width="352px" height="261px">
+  </div>
+</div>
+<div>
+    <div class="e">
+        <h1 align="center"> Exhibitions </h1>
+        <img src="p9.PNG" alt="" width="328px" height="173px">
+        <img src="p10.PNG" alt="" width="354px" height="221px">
+        <img src="p11.PNG" alt="" width="240px" height="240px">
+        <img src="p12.PNG" alt="" width="500px" height="250px">
+    </div>
+    <div>
+        <div class="f">
+            <img src="p14.PNG" alt="" width="500px" height="350px">
+            <img src="p15.PNG" alt="" width="500px" height="350px">
+            <img src="p13.PNG" alt="" width="500px" height="350px">
+            <img src="p16.PNG" alt="" width="500px" height="350px">
+    </div>
+    <div>
+        <div class="g">
+        <h1 align="center"> The Museum of Modern Art </h1>
+        <img src="p17.jpg" alt="" width="1200px" height="450px">
+       <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero, voluptates magni, ratione eius deleniti facere modi neque qui reiciendis ducimus excepturi quam, velit quod repellat quas impedit consectetur officia. Sint necessitatibus alias odit atque, voluptatem maiores inventore eligendi rerum error, soluta, ullam voluptatum laboriosam facere consequatur! Quam dicta, voluptatibus in eveniet iste vero sapiente nihil voluptatum sed, maiores blanditiis veritatis aliquam nobis, voluptates fugit rem unde recusandae illum architecto omnis! 
+             </p>
+     <div>
+        <div class="h">
+            <img src="p18.PNG" alt="" width="1100px" height="640px">
+     </div>
+     <div>
+        <div class="i">
+            <img src="p19.PNG" alt="" width="1200px" height="250px">
+
+     </div>
+</body> 
+</html>  
